@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Rojas</h1>
 <h3 align="center">I am a sixth-semester student of Applied Mathematics and Computing at UNAM, focused on Data Science and its practical applications. I specialize in areas such as data analysis, mathematical modeling, algorithms, and programming.</h3>
 
-- 🌱 I’m currently learning **Python, ML algorithms, Data engineering, Data analysis, etc.**
+-  I’m currently learning **Python, ML algorithms, Data engineering, Data analysis, etc.**
 
-- 👯 I’m looking to collaborate on **projects related to Data Science, ML, and IA related stuff**
+-  I’m looking to collaborate on **projects related to Data Science, ML, and IA related stuff**
 
-- 📫 How to reach me **uriostiguerodrigo@gmail.com**
+-  How to reach me **uriostiguerodrigo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
